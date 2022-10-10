@@ -1,0 +1,15 @@
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\bin\Debug\net6.0\Repo-skola-uppgifter-2.exe
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\bin\Debug\net6.0\Repo-skola-uppgifter-2.deps.json
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\bin\Debug\net6.0\Repo-skola-uppgifter-2.runtimeconfig.json
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\bin\Debug\net6.0\Repo-skola-uppgifter-2.dll
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\bin\Debug\net6.0\Repo-skola-uppgifter-2.pdb
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\obj\Debug\net6.0\Repo-skola-uppgifter-2.csproj.AssemblyReference.cache
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\obj\Debug\net6.0\Repo-skola-uppgifter-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\obj\Debug\net6.0\Repo-skola-uppgifter-2.AssemblyInfoInputs.cache
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\obj\Debug\net6.0\Repo-skola-uppgifter-2.AssemblyInfo.cs
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\obj\Debug\net6.0\Repo-skola-uppgifter-2.csproj.CoreCompileInputs.cache
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\obj\Debug\net6.0\Repo-skola-uppgifter-2.dll
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\obj\Debug\net6.0\refint\Repo-skola-uppgifter-2.dll
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\obj\Debug\net6.0\Repo-skola-uppgifter-2.pdb
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\obj\Debug\net6.0\Repo-skola-uppgifter-2.genruntimeconfig.cache
+C:\Kod och programering\GitHub\Repo-skola-uppgifter-2\obj\Debug\net6.0\ref\Repo-skola-uppgifter-2.dll
